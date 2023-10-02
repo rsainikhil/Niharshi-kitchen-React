@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rsainikhil.github.io/Niharshi-kitchen-React/static/css/main.cdfb1202.css",
+    "main.js": "/rsainikhil.github.io/Niharshi-kitchen-React/static/js/main.bce0bade.js",
+    "static/js/787.8eaab58f.chunk.js": "/rsainikhil.github.io/Niharshi-kitchen-React/static/js/787.8eaab58f.chunk.js",
+    "static/media/logo.svg": "/rsainikhil.github.io/Niharshi-kitchen-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rsainikhil.github.io/Niharshi-kitchen-React/index.html",
+    "main.cdfb1202.css.map": "/rsainikhil.github.io/Niharshi-kitchen-React/static/css/main.cdfb1202.css.map",
+    "main.bce0bade.js.map": "/rsainikhil.github.io/Niharshi-kitchen-React/static/js/main.bce0bade.js.map",
+    "787.8eaab58f.chunk.js.map": "/rsainikhil.github.io/Niharshi-kitchen-React/static/js/787.8eaab58f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdfb1202.css",
+    "static/js/main.bce0bade.js"
+  ]
+}
